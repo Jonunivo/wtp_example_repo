@@ -1,0 +1,19 @@
+# settings.py
+
+WIDTH = 800
+HEIGHT = 600
+FPS = 60
+
+PADDLE_SPEED = 7
+BALL_SPEED = 5
+SPEED_MULTIPLIER = 1.1
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+BRIGHT_GREY = (200, 200, 200)
+RED = (255, 0, 0)
+
+ASSET_DIR = "assets"
+
+# New setting
+WIN_POINTS = 5
