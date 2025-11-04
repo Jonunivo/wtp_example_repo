@@ -1,4 +1,4 @@
-# settings.py
+# settings.pysss
 
 WIDTH = 800
 HEIGHT = 600
